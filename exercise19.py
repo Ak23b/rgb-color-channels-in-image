@@ -43,5 +43,3 @@ plt.imshow(B,cmap="Blues")
 plt.title("Blue Channel Image")
 plt.axis("off")
 plt.show()
-
-
